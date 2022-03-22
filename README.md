@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @kezo98
-- 👀 I’m interested in 
+- 👋 Hi, I’m @kezo98 
 - 📫 How to reach me -> kezo1998@gmail.com
 
 <!---
